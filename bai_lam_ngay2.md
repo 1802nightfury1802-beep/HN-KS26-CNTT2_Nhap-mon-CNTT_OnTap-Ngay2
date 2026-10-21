@@ -90,8 +90,7 @@ PS C:\Users\BUI HAI DANG\Desktop\starter-kit\trung-tam-tieng-anh> Get-Content .\
 
 ## Bài 5. Câu hỏi ngắn
 
-- **a)  Toán tử > ghi đè nội dung file (nếu file đã tồn tại thì toàn bộ nội dung cũ sẽ bị xóa hoàn toàn để thay bằng nội dung mới, nếu file chưa tồn tại sẽ tạo mới).
-        Toán tử >> ghi nối tiếp nội dung mới vào cuối file mà không làm mất hoặc xóa đi các dòng nội dung cũ đã có trước đó.**
+- **a)  Toán tử ">" ghi đè nội dung file (nếu file đã tồn tại thì toàn bộ nội dung cũ sẽ bị xóa hoàn toàn để thay bằng nội dung mới, nếu file chưa tồn tại sẽ tạo mới). Còn toán tử ">>" ghi nối tiếp nội dung mới vào cuối file mà không làm mất hoặc xóa đi các dòng nội dung cũ đã có trước đó.**
 - **b) Dòng tiêu đề "=== TONG HOP ACCESS LOG ===" vừa được ghi ở lệnh đầu tiên sẽ bị xóa hoàn toàn. File "tong_hop_ngay2.txt" sẽ chỉ còn chứa nội dung của các dòng ERROR thu được từ lệnh thứ hai.**
 - **c) Đường dẫn tương đối giúp script có tính linh hoạt và khả năng di động cao, có thể chạy đúng trên bất kỳ máy tính hay môi trường làm việc nào khi thư mục dự án được di chuyển hoặc tải về. Đường dẫn tuyệt đối cố định vị trí thư mục cá nhân, nên sẽ bị lỗi "File not found" khi mở và thực thi trên máy khác.**
 
